@@ -1,6 +1,6 @@
 .main{
   background-size: 100% 100%;
-  background: url('file:///C:/Users/admin/Downloads/texture-2068283_1280.jpg');
+  background: url('');
   flex: 1;
   min-height: 100vh;
   padding-bottom: 15vh;
@@ -129,7 +129,7 @@ gap: 15px;
 }
 
 .result-data{
-  color: azure;
+  color: black;
   display: flex;
   align-items: start;
   gap: 20px;
